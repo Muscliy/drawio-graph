@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2021-07-08T01:25:46.815Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="szXTL-uThJjinE1kOS6G" version="14.8.5" type="github"><diagram id="JDgTH5h5aDUpZadpSMMM" name="Page-1">ddHBEoIgEADQr+GuMJWdzfLSyUNnRjZhBl0HabS+Ph0gY6wLA49dYBfC8na6GN7LKwrQhCZiIuxEKM2y3Twu8PSwPzpojBKO0hUq9QKPideHEjBEgRZRW9XHWGPXQW0j48bgGIfdUce39ryBDVQ111u9KWGlr4IeVi9BNTLcnIb6Wh6CfSWD5ALHL2IFYblBtG7WTjnopXehLy7v/Gf38zADnf2RME/Ws+dF9EGseAM=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-08T02:00:52.606Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="nsQ5CB3b1_Ol6GCT_8MD" version="14.8.5" type="github">
+  <diagram id="JDgTH5h5aDUpZadpSMMM" name="Page-1">
+    <mxGraphModel dx="3540" dy="3476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-6" value="&lt;font color=&quot;#ff3333&quot;&gt;司机没有进行过司机认证无法获取货源单信息并接&lt;/font&gt;单" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="122.25" width="400" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-12" value="接单成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-16" target="HEKT4MM9BUAffEV2bCpA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-37" value="无" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HEKT4MM9BUAffEV2bCpA-35">
+          <mxGeometry x="-0.4514" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-16" target="HEKT4MM9BUAffEV2bCpA-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="119.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-41" value="有" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HEKT4MM9BUAffEV2bCpA-40">
+          <mxGeometry x="-0.2" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-16" value="司机认证记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="152.5" y="40" width="95" height="79.75" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-24" value="去认证" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="488.75" y="61.13" width="60" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-26" value="车辆认证信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="500" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-39" target="HEKT4MM9BUAffEV2bCpA-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-39" value="接单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-42" target="HEKT4MM9BUAffEV2bCpA-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-47" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HEKT4MM9BUAffEV2bCpA-45">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-42" target="HEKT4MM9BUAffEV2bCpA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-50" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HEKT4MM9BUAffEV2bCpA-49">
+          <mxGeometry x="0.125" y="2" relative="1" as="geometry">
+            <mxPoint x="-15" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-42" value="审核后置" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="318.75" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-46" value="有" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-44" target="HEKT4MM9BUAffEV2bCpA-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-56" value="无" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-44" target="HEKT4MM9BUAffEV2bCpA-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-44" value="车辆认证记录" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="480" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-48" target="HEKT4MM9BUAffEV2bCpA-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-52" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HEKT4MM9BUAffEV2bCpA-51">
+          <mxGeometry x="-0.1952" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-48" target="HEKT4MM9BUAffEV2bCpA-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-48" value="司机认证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.5" y="320" width="84.5" height="77.5" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-55" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-53" target="HEKT4MM9BUAffEV2bCpA-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-57" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HEKT4MM9BUAffEV2bCpA-53" target="HEKT4MM9BUAffEV2bCpA-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="434.5" y="584.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HEKT4MM9BUAffEV2bCpA-53" value="车辆认证成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="472" y="480" width="94.5" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
